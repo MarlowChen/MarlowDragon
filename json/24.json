@@ -1,0 +1,39 @@
+{
+  "name": "Marlow Dragon #24",
+  "description": "Marlow test nft ",
+  "image": "ipfs://QmWihmhT3PiDY2zJdXZMea6auKqLCgQz7DLEwVwUNa8MDV/24.png",
+  "dna": "77fab5b5a1b7e4ac3b3d7c42140793c3991a7e44",
+  "edition": 24,
+  "date": 1641539414865,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "machine"
+    },
+    {
+      "trait_type": "tail",
+      "value": "demon"
+    },
+    {
+      "trait_type": "hom",
+      "value": "unicorn"
+    },
+    {
+      "trait_type": "body",
+      "value": "azure"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "smile"
+    },
+    {
+      "trait_type": "back",
+      "value": "dot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
