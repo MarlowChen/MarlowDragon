@@ -1,0 +1,39 @@
+{
+  "name": "Marlow Dragon #99",
+  "description": "Marlow test nft ",
+  "image": "ipfs://QmWihmhT3PiDY2zJdXZMea6auKqLCgQz7DLEwVwUNa8MDV/99.png",
+  "dna": "7514b1a4c7c024d573e979b042c1d269e3e35946",
+  "edition": 99,
+  "date": 1641539463721,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "ocean"
+    },
+    {
+      "trait_type": "tail",
+      "value": "lizard"
+    },
+    {
+      "trait_type": "hom",
+      "value": "shofar"
+    },
+    {
+      "trait_type": "body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "back",
+      "value": "dot"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
