@@ -2,7 +2,6 @@ import './App.css';
 import './Contact.css';
 import React, { useState, useEffect, lazy } from 'react';
 import { Nav, Container, Col, Row } from 'react-bootstrap';
-import fog from './assets/video/fog.mp4';
 import pink from './assets/images/pink.png';
 import ocean from './assets/images/ocean.png';
 import shofar from './assets/images/shofar.png';
@@ -282,9 +281,6 @@ function App() {
         </Row>
       </Container>
       <Container id='about' className='mainCls-2' fluid style={{ position: 'relative' }}>
-        <video id="bgVideo" controls preload="true" autoPlay loop muted>
-          <source src={fog} type="video/mp4" />
-        </video>
         <Row className='rowCls' style={{ position: 'relative' }}  >
           <Col md={6} xs={12} className='dragon-col'>
             <div>
