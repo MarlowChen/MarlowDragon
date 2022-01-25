@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x63500aC230495573c660863F85aA0427fC333AeB",
+  "SCAN_LINK": "https://polygonscan.com/address/0x63500ac230495573c660863f85aa0427fc333aeb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Donba Dragon",
+  "SYMBOL": "DDNFT",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dongba-dragon",
+  "SHOW_BACKGROUND": true
+}
